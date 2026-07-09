@@ -7,7 +7,7 @@
 
   <!-- Info block -->
   <g font-size="14">
-    <text x="20" y="76"><tspan fill="#ff3b3b">. OS: </tspan><tspan fill="#5c6370">......................</tspan><tspan fill="#ffffff">CaffeineOS</tspan></text>
+    <text x="20" y="76"><tspan fill="#ff3b3b">. OS: </tspan><tspan fill="#5c6370">......................</tspan><tspan fill="#ffffff">SpaghettiOS</tspan></text>
 
     <text x="20" y="98"><tspan fill="#ff3b3b">. Host: </tspan><tspan fill="#5c6370">....................</tspan><tspan fill="#ffffff">Lalit Kumar</tspan></text>
 
@@ -36,7 +36,7 @@
 
     <text x="20" y="384"><tspan fill="#ff3b3b">. LinkedIn: </tspan><tspan fill="#5c6370">................</tspan><tspan fill="#ffffff">superhax0rr</tspan></text>
 
-    <text x="20" y="406"><tspan fill="#ff3b3b">. Discord: </tspan><tspan fill="#5c6370">.................</tspan><tspan fill="#ffffff">lalman4</tspan></text>
+    <text x="20" y="406"><tspan fill="#ff3b3b">. Discord: </tspan><tspan fill="#5c6370">.................</tspan><tspan fill="#ffffff">lalman24</tspan></text>
   </g>
 
   <!-- GitHub Stats -->
