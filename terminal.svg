@@ -1,0 +1,70 @@
+<svg viewBox="0 0 520 505" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', Consolas, monospace">
+  <rect width="520" height="505" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="20" y="34" font-size="19" font-weight="bold" fill="#00e5ff">SuperHax0rr</text>
+  <text x="20" y="50" font-size="14" fill="#ffffff">------------------------------------------------</text>
+
+  <!-- Info block -->
+  <g font-size="14">
+    <text x="20" y="76"><tspan fill="#ff3b3b">. OS: </tspan><tspan fill="#5c6370">......................</tspan><tspan fill="#ffffff">SpaghettiOS</tspan></text>
+
+    <text x="20" y="98"><tspan fill="#ff3b3b">. Host: </tspan><tspan fill="#5c6370">....................</tspan><tspan fill="#ffffff">Lalit Kumar</tspan></text>
+
+    <text x="20" y="120"><tspan fill="#ff3b3b">. Uptime: </tspan><tspan fill="#5c6370">..................</tspan><tspan fill="#ffffff">{{UPTIME}}</tspan></text>
+
+    <text x="20" y="142"><tspan fill="#ff3b3b">. Kernel: </tspan><tspan fill="#5c6370">..................</tspan><tspan fill="#ffffff">Caffeine Powered</tspan></text>
+
+    <text x="20" y="164"><tspan fill="#ff3b3b">. Shell: </tspan><tspan fill="#5c6370">...................</tspan><tspan fill="#ffffff">Git Bash</tspan></text>
+
+    <text x="20" y="202"><tspan fill="#ff3b3b">. Languages.Programming: </tspan><tspan fill="#5c6370">..</tspan><tspan fill="#ffffff">Python, C</tspan></text>
+
+    <text x="20" y="224"><tspan fill="#ff3b3b">. Languages.Real: </tspan><tspan fill="#5c6370">..........</tspan><tspan fill="#ffffff">English, Hindi</tspan></text>
+
+    <text x="20" y="262"><tspan fill="#ff3b3b">. Hobbies.Software: </tspan><tspan fill="#5c6370">........</tspan><tspan fill="#ffffff">Windows Customization</tspan></text>
+
+    <text x="20" y="284"><tspan fill="#ff3b3b">. Hobbies.Hardware: </tspan><tspan fill="#5c6370">........</tspan><tspan fill="#ffffff">File Optimization</tspan></text>
+  </g>
+
+  <!-- Contact -->
+  <text x="20" y="318" font-size="14" font-weight="bold" fill="#00e5ff">- Contact -----------------------------------</text>
+
+  <g font-size="14">
+    <text x="20" y="340"><tspan fill="#ff3b3b">. Email.Personal: </tspan><tspan fill="#5c6370">..........</tspan><tspan fill="#ffffff">mrk2481211@gmail.com</tspan></text>
+
+    <text x="20" y="362"><tspan fill="#ff3b3b">. Email.Work: </tspan><tspan fill="#5c6370">..............</tspan><tspan fill="#ffffff">lalitkumar2481211@gmail.com</tspan></text>
+
+    <text x="20" y="384"><tspan fill="#ff3b3b">. LinkedIn: </tspan><tspan fill="#5c6370">................</tspan><tspan fill="#ffffff">superhax0rr</tspan></text>
+
+    <text x="20" y="406"><tspan fill="#ff3b3b">. Discord: </tspan><tspan fill="#5c6370">.................</tspan><tspan fill="#ffffff">lalman24</tspan></text>
+  </g>
+
+  <!-- GitHub Stats -->
+  <text x="20" y="440" font-size="14" font-weight="bold" fill="#00e5ff">- GitHub Stats --------------------------------</text>
+
+  <g font-size="14">
+    <text x="20" y="462">
+      <tspan fill="#ff3b3b">. Repos: </tspan>
+      <tspan fill="#5c6370">......</tspan>
+      <tspan fill="#ffffff">{{REPOS}}</tspan>
+
+      <tspan fill="#5c6370" x="245">|</tspan>
+
+      <tspan fill="#ff3b3b" x="265">Stars: </tspan>
+      <tspan fill="#5c6370">.......</tspan>
+      <tspan fill="#ffffff">{{STARS}}</tspan>
+    </text>
+
+    <text x="20" y="484">
+      <tspan fill="#ff3b3b">. Commits: </tspan>
+      <tspan fill="#5c6370">....</tspan>
+      <tspan fill="#ffffff">{{COMMITS}}</tspan>
+
+      <tspan fill="#5c6370" x="245">|</tspan>
+
+      <tspan fill="#ff3b3b" x="265">Followers: </tspan>
+      <tspan fill="#5c6370">...</tspan>
+      <tspan fill="#ffffff">{{FOLLOWERS}}</tspan>
+    </text>
+  </g>
+</svg>
