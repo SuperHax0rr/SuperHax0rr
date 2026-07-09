@@ -6,3 +6,8 @@
 </td>
 
 <td valign="top">
+<img src="terminal.svg" width="520">
+</td>
+
+</tr>
+</table>
