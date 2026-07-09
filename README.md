@@ -1,4 +1,3 @@
-<img src="ascii_face.gif" width="360" align="left">
 <table>
 <tr>
 <td width="190" valign="top">
