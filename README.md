@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="ascii_face.gif" alt="CRT ASCII Portrait" width="900">
-</p>
+<img src="ascii_face.gif" width="180" align="left">
