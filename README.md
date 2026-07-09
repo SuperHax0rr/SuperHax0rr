@@ -2,7 +2,7 @@
 <tr>
 
 <td width="200" valign="top">
-<img src="ascii_face.gif" width="180">
+<img src="ascii_face.gif" width="360">
 </td>
 
 <td valign="top">
