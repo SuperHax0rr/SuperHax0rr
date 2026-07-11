@@ -11,19 +11,19 @@
 
     <text x="20" y="98"><tspan fill="#ff3b3b">. Host: </tspan><tspan fill="#5c6370">....................</tspan><tspan fill="#ffffff">Lalit Kumar</tspan></text>
 
-    <text x="20" y="120"><tspan fill="#ff3b3b">. Uptime: </tspan><tspan fill="#5c6370">..................</tspan><tspan fill="#ffffff">20 years, 10 months, 16 days</tspan></text>
+    <text x="20" y="120"><tspan fill="#ff3b3b">. Uptime: </tspan><tspan fill="#5c6370">..................</tspan><tspan fill="#ffffff">20 years, 10 months, 17 days</tspan></text>
 
     <text x="20" y="142"><tspan fill="#ff3b3b">. Kernel: </tspan><tspan fill="#5c6370">..................</tspan><tspan fill="#ffffff">Caffeine Powered</tspan></text>
 
     <text x="20" y="164"><tspan fill="#ff3b3b">. Shell: </tspan><tspan fill="#5c6370">...................</tspan><tspan fill="#ffffff">Git Bash</tspan></text>
 
-    <text x="20" y="202"><tspan fill="#ff3b3b">. Languages.Programming: </tspan><tspan fill="#5c6370">...</tspan><tspan fill="#ffffff">Python, C</tspan></text>
+    <text x="20" y="202"><tspan fill="#ff3b3b">. Languages.Programming: </tspan><tspan fill="#5c6370">..</tspan><tspan fill="#ffffff">Python, C</tspan></text>
 
     <text x="20" y="224"><tspan fill="#ff3b3b">. Languages.Real: </tspan><tspan fill="#5c6370">..........</tspan><tspan fill="#ffffff">English, Hindi</tspan></text>
 
     <text x="20" y="262"><tspan fill="#ff3b3b">. Hobbies.Software: </tspan><tspan fill="#5c6370">........</tspan><tspan fill="#ffffff">Windows Customization</tspan></text>
 
-    <text x="20" y="284"><tspan fill="#ff3b3b">. Hobbies.Hardware: </tspan><tspan fill="#5c6370">........</tspan><tspan fill="#ffffff">Electronics, Narrative Reading</tspan></text>
+    <text x="20" y="284"><tspan fill="#ff3b3b">. Hobbies.Hardware: </tspan><tspan fill="#5c6370">........</tspan><tspan fill="#ffffff">File Optimization</tspan></text>
   </g>
 
   <!-- Contact -->
@@ -58,13 +58,13 @@
     <text x="20" y="484">
       <tspan fill="#ff3b3b">. Commits: </tspan>
       <tspan fill="#5c6370">....</tspan>
-      <tspan fill="#ffffff">132</tspan>
+      <tspan fill="#ffffff">133</tspan>
 
       <tspan fill="#5c6370" x="245">|</tspan>
 
       <tspan fill="#ff3b3b" x="265">Followers: </tspan>
       <tspan fill="#5c6370">...</tspan>
-      <tspan fill="#ffffff">1</tspan>
+      <tspan fill="#ffffff">2</tspan>
     </text>
   </g>
 </svg>
