@@ -11,7 +11,7 @@
 
     <text x="20" y="98"><tspan fill="#ff3b3b">. Host: </tspan><tspan fill="#5c6370">....................</tspan><tspan fill="#ffffff">Lalit Kumar</tspan></text>
 
-    <text x="20" y="120"><tspan fill="#ff3b3b">. Uptime: </tspan><tspan fill="#5c6370">..................</tspan><tspan fill="#ffffff">20 years, 10 months, 27 days</tspan></text>
+    <text x="20" y="120"><tspan fill="#ff3b3b">. Uptime: </tspan><tspan fill="#5c6370">..................</tspan><tspan fill="#ffffff">20 years, 10 months, 28 days</tspan></text>
 
     <text x="20" y="142"><tspan fill="#ff3b3b">. Kernel: </tspan><tspan fill="#5c6370">..................</tspan><tspan fill="#ffffff">Caffeine Powered</tspan></text>
 
@@ -46,7 +46,7 @@
     <text x="20" y="462">
       <tspan fill="#ff3b3b">. Repos: </tspan>
       <tspan fill="#5c6370">......</tspan>
-      <tspan fill="#ffffff">5</tspan>
+      <tspan fill="#ffffff">6</tspan>
 
       <tspan fill="#5c6370" x="245">|</tspan>
 
@@ -58,7 +58,7 @@
     <text x="20" y="484">
       <tspan fill="#ff3b3b">. Commits: </tspan>
       <tspan fill="#5c6370">....</tspan>
-      <tspan fill="#ffffff">137</tspan>
+      <tspan fill="#ffffff">156</tspan>
 
       <tspan fill="#5c6370" x="245">|</tspan>
 
