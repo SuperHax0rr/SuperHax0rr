@@ -2,11 +2,11 @@
 <tr>
 
 <td width="200" valign="top">
-<img src="face.gif" width="329">
+<img src="face.gif?v=2" width="329">
 </td>
 
 <td valign="top">
-<img src="terminal.svg" width="5220">
+<img src="terminal.svg" width="520">
 </td>
 
 </tr>
